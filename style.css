@@ -63,11 +63,12 @@ h1{
     background: linear-gradient(10deg,rgb(36, 36, 240),rgb(17, 202, 235));
     transform: scaley(1.13);
 }
-.error.message{
-    color: #e63947;
+.error-message{
+    color: #f83b4b;
     font-size: 14px;
+    font-weight: 550;
     margin-bottom: 15px;
-    background: #ffe6e6;
+    background: #fab2b2;
     padding: 8px;
     border-radius: 5px;
     display: none;
